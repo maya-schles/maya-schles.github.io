@@ -140,9 +140,9 @@ newsletter:
 # Collections
 # -----------------------------------------------------------------------------
 
-collections:
-  books:
-    output: true
+# collections:
+#   books:
+#     output: true
   # news:
   #   defaults:
   #     layout: post
