@@ -140,7 +140,7 @@ newsletter:
 # Collections
 # -----------------------------------------------------------------------------
 
-# collections:
+collections:
   # books:
   #   output: true
   # news:
