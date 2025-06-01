@@ -200,6 +200,7 @@ exclude:
   - _pages/dropdown.md
   - _pages/profiles.md
   - _pages/teaching.md
+  - _includes/footer.liquid
 
 keep_files:
   - CNAME
