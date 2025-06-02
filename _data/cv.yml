@@ -2,96 +2,53 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Maya Schlesinger
+    - name: Title
+      value: PhD Student, Department of Computer Science, Tel Aviv University
+    - name: Email
+      value: maya.schlesinger@gmail.com
+    - name: Homepage
+      value: https://maya-schles.github.io/
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Computer Science
+      institution: Tel Aviv University, Tel Aviv, Israel
+      year: 2024 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - "In the field of Algorithmic Game Theory. Advisor: Michal Feldman."
+    - title: MSc in Computer Science
+      institution: Tel Aviv University, Tel Aviv, Israel
+      year: 2022 - 2024
       description:
-        - Description 1.
-        - Description 2.
+        - "Graduated with honors, in the field of Algorithmic Game Theory.\nThesis title: “On the (In)approximability of Combinatorial Contracts.”.\nAdvisor: Michal Feldman.\nThesis Grade: 99. Defense Grade: 97. Course GPA: 99."
+    - title: BSc in Mathematics and Computer Science
+      institution: Tel Aviv University, Tel Aviv, Israel
+      year: 2018 - 2022
+      description:
+        - "Participated in honors B.Sc. program in computer science, including a research project with\nMichal Feldman.\nComputer Science GPA: 96 (Summa Cum Laude). Mathematics GPA: 90 (Magna Cum Laude)."
 
-- title: Experience
+- title: Awards
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - title: The Boaz Trakhtenbrot Centennial Scholarship
+      year: 2025
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: Publications
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - "Tomer Ezra, Michal Feldman, Maya Schlesinger. ``On the (In)approximability of Combinatorial Contracts.'' ITCS 2024."
+    - "Michal Feldman, Yoav Gal-Tzur, Tomasz Ponitka, Maya Schlesinger. ``Budget-Feasible Contract Design.'' EC 2025."
+    - "Tomer Ezra, Michal Feldman, Maya Schlesinger. ``Contract Design for Sequential Actions.'' In submission."
+
+- title: Talks
+  type: list
+  contents:
+    - "``Contract Design with Combinatorial Actions.'' Computation and Economics Seminar, the Hebrew University of Jerusalem, March 2024."
+    - "``Contract Design for Sequential Actions.'' Gender Inclusion Workshop, EC 2024."
+
+- title: Teaching Experience
+  type: list
+  contents:
+    - "Teaching Assistant – Discrete Mathematics 2: Tel Aviv University, Spring 2025"
