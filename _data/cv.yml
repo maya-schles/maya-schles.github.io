@@ -22,7 +22,7 @@
       institution: Tel Aviv University, Tel Aviv, Israel
       year: 2022 - 2024
       description:
-        - "Graduated with honors, in the field of Algorithmic Game Theory.\nThesis title: “On the (In)approximability of Combinatorial Contracts.”.\nAdvisor: Michal Feldman.\nThesis Grade: 99. Defense Grade: 97. Course GPA: 99."
+        - "Graduated with honors, in the field of Algorithmic Game Theory.\nThesis title: \"On the (In)approximability of Combinatorial Contracts.\" \nAdvisor: Michal Feldman.\nThesis Grade: 99. Defense Grade: 97. Course GPA: 99."
     - title: BSc in Mathematics and Computer Science
       institution: Tel Aviv University, Tel Aviv, Israel
       year: 2018 - 2022
@@ -38,15 +38,15 @@
 - title: Publications
   type: list
   contents:
-    - "Tomer Ezra, Michal Feldman, Maya Schlesinger. ``On the (In)approximability of Combinatorial Contracts.'' ITCS 2024."
-    - "Michal Feldman, Yoav Gal-Tzur, Tomasz Ponitka, Maya Schlesinger. ``Budget-Feasible Contract Design.'' EC 2025."
-    - "Tomer Ezra, Michal Feldman, Maya Schlesinger. ``Contract Design for Sequential Actions.'' In submission."
+    - "Tomer Ezra, Michal Feldman, Maya Schlesinger. \"*On the (In)approximability of Combinatorial Contracts.*\" ITCS 2024."
+    - "Michal Feldman, Yoav Gal-Tzur, Tomasz Ponitka, Maya Schlesinger. \"Budget-Feasible Contract Design.\" EC 2025."
+    - "Tomer Ezra, Michal Feldman, Maya Schlesinger. \"Contract Design for Sequential Actions.\" In submission."
 
 - title: Talks
   type: list
   contents:
-    - "``Contract Design with Combinatorial Actions.'' Computation and Economics Seminar, the Hebrew University of Jerusalem, March 2024."
-    - "``Contract Design for Sequential Actions.'' Gender Inclusion Workshop, EC 2024."
+    - "\"Contract Design with Combinatorial Actions.\" Computation and Economics Seminar, the Hebrew University of Jerusalem, March 2024."
+    - "\"Contract Design for Sequential Actions.\" Gender Inclusion Workshop, EC 2024."
 
 - title: Teaching Experience
   type: list
