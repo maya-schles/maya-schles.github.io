@@ -2,6 +2,8 @@
 layout: default
 permalink: /hobbies/
 title: hobbies
+nav: true
+nav_order: 5
 ---
 
 # TTRPG
