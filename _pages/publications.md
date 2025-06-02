@@ -13,8 +13,12 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
+# Working papers
 <div class="publications">
+  {% bibliography --group_by none --query @*[working=true]* %}
+</div>
 
-{% bibliography %}
-
+# Publications
+<div class="publications">
+  {% bibliography --group_by none --query @*[working=false]* %}
 </div>
