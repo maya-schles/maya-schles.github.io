@@ -22,12 +22,15 @@
       institution: Tel Aviv University, Tel Aviv, Israel
       year: 2022 - 2024
       description:
-        - "Graduated with honors, in the field of Algorithmic Game Theory.\nThesis title: \"On the (In)approximability of Combinatorial Contracts.\" \nAdvisor: Michal Feldman.\nThesis Grade: 99. Defense Grade: 97. Course GPA: 99."
+        - "Graduated with honors, in the field of Algorithmic Game Theory."
+        - "Thesis title: \"On the (In)approximability of Combinatorial Contracts.\" \nAdvisor: Michal Feldman."
+        - "Thesis Grade: 99. Defense Grade: 97. Course GPA: 99."
     - title: BSc in Mathematics and Computer Science
       institution: Tel Aviv University, Tel Aviv, Israel
       year: 2018 - 2022
       description:
-        - "Participated in honors B.Sc. program in computer science, including a research project with\nMichal Feldman.\nComputer Science GPA: 96 (Summa Cum Laude). Mathematics GPA: 90 (Magna Cum Laude)."
+        - "Participated in honors B.Sc. program in computer science, including a research project with Michal Feldman."
+        - "Computer Science GPA: 96 (Summa Cum Laude). Mathematics GPA: 90 (Magna Cum Laude)."
 
 - title: Awards
   type: time_table

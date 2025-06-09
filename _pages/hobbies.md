@@ -16,6 +16,7 @@ I've taken a few improv classes, and it's been an absolute blast.
 If you're a Hebrew speaker and want to see me having fun on stage, you can check out my end-of-course performances:
 - [Beginner course show](https://www.youtube.com/watch?v=Tjzp0ZTLMPM)
 - [Advanced course show](https://www.youtube.com/watch?v=a_NCWUyY-So)
+- [Advanced+ course show](https://www.youtube.com/watch?v=50dqzHN4NVI)
 
 # Some of my Favorite Things
 * **Video Games**: Outer Wilds, Fallout 4, Factorio, Stardew Valley, Return of the Obra Dinn
