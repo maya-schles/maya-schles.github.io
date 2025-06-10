@@ -1,8 +1,7 @@
 ---
-layout: page
-permalink: /publications/
+layout: default
+permalink: /papers/
 title: papers
-description: 
 nav: true
 nav_order: 2
 ---
@@ -13,12 +12,12 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
-### Working Papers
+# Working Papers
 <div class="publications">
   {% bibliography --group_by none --query @*[working=true]* %}
 </div>
 
-### Publications
+# Publications
 <div class="publications">
   {% bibliography --group_by none --query @*[working=false]* %}
 </div>
