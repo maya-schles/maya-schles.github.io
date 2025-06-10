@@ -7,7 +7,8 @@ nav_order: 5
 ---
 
 # TTRPG
-I'm an avid tabletop RPG player—mostly as a player, though I've occasionally stepped in as GM. I play with friends on weekends across a variety of systems.
+TTRPG is the category of games like "Dungeons and Dragons", games which are somewhere in between board games and make-believe collaborative storytelling.
+I'm an avid TTRPG player—mostly as a player, though I've occasionally stepped in as GM. I play with friends on weekends across a variety of systems.
 
 Check out [Final Pulse](https://www.drivethrurpg.com/en/product/515985/final-pulse), a homebrew rulebook for Vampire the Masquerade created by my GM.
 
