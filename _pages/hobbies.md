@@ -18,7 +18,10 @@ If you're a Hebrew speaker and want to see me having fun on stage, you can check
 - [Advanced course show](https://www.youtube.com/watch?v=a_NCWUyY-So)
 - [Advanced+ course show](https://www.youtube.com/watch?v=50dqzHN4NVI)
 
-# Some of my Favorite Things
-* **Video Games**: Outer Wilds, Fallout 4, Factorio, Stardew Valley, Return of the Obra Dinn
-* **Musicals**: Hadestown, Waitress, Into the Woods, West Side Story, Groundhog Day
-* **Books**: Name of the Wind, Project Hail Mary, The Kite Runner, Warbreaker, The Dispossessed, The Hunger Games (especially the prequels)
+[//]: # (# Some of my Favorite Things)
+
+[//]: # (* **Video Games**: Outer Wilds, Fallout 4, Factorio, Stardew Valley, Return of the Obra Dinn)
+
+[//]: # (* **Musicals**: Hadestown, Waitress, Into the Woods, West Side Story, Groundhog Day)
+
+[//]: # (* **Books**: Name of the Wind, Project Hail Mary, The Kite Runner, Warbreaker, The Dispossessed, The Hunger Games &#40;especially the prequels&#41;)
