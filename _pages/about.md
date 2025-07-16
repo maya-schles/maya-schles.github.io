@@ -32,7 +32,7 @@ social: true # includes social icons at the bottom of the page
 [//]: # ()
 [//]: # (Link to your social media connections, too. This theme is set up to use [Font Awesome icons]&#40;https://fontawesome.com/&#41; and [Academicons]&#40;https://jpswalsh.github.io/academicons/&#41;, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.)
 I’m a PhD student in computer science at Tel Aviv University, advised by Michal Feldman. 
-Before that, I was a master's student in Computer Science, also advised by Michal.
+Before that, I was a master's student in computer science, also advised by Michal.
 My research lies in algorithmic game theory, with a focus on contract design in combinatorial settings.
 
 
