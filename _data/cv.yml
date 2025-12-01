@@ -44,14 +44,17 @@
     - "Tomer Ezra, Michal Feldman, Maya Schlesinger. \"On the (In)approximability of Combinatorial Contracts.\" ITCS 2024."
     - "Michal Feldman, Yoav Gal-Tzur, Tomasz Ponitka, Maya Schlesinger. \"Budget-Feasible Contract Design.\" EC 2025."
     - "Tomer Ezra, Michal Feldman, Maya Schlesinger. \"Contract Design for Sequential Actions.\" SODA 2026."
+    - - "Michal Feldman, Yoav Gal-Tzur, Tomasz Ponitka, Maya Schlesinger. \"One Action Too Many: Inapproximability of Budgeted Combinatorial Contracts.\" `ITCS 2026."
 
 - title: Talks
   type: list
   contents:
     - "\"Contract Design with Combinatorial Actions.\" Computation and Economics Seminar, the Hebrew University of Jerusalem, March 2024."
     - "\"Contract Design for Sequential Actions.\" Gender Inclusion Workshop, EC 2024."
+    - "\"Budget-Feasible Contract Design.\" EC 2025."
 
 - title: Teaching Experience
   type: list
   contents:
     - "Teaching Assistant – Discrete Mathematics 2: Tel Aviv University, Spring 2025"
+    - "Teaching Assistant – Discrete Mathematics 2: Tel Aviv University, Fall 2025."
