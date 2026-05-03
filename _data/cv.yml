@@ -17,19 +17,19 @@
       institution: Tel Aviv University, Tel Aviv, Israel
       year: 2024 - Present
       description:
-        - "In the field of Algorithmic Game Theory. Advisor: Michal Feldman."
+        - "In the field of Algorithmic Game Theory. Advisor: Prof. Michal Feldman."
     - title: MSc in Computer Science
       institution: Tel Aviv University, Tel Aviv, Israel
       year: 2022 - 2024
       description:
         - "Graduated with honors, in the field of Algorithmic Game Theory."
-        - "Thesis title: \"On the (In)approximability of Combinatorial Contracts.\" \nAdvisor: Michal Feldman."
+        - "Thesis title: \"On the (In)approximability of Combinatorial Contracts.\" \nAdvisor: Prof. Michal Feldman."
         - "Thesis Grade: 99. Defense Grade: 97. Course GPA: 99."
-    - title: BSc in Mathematics and Computer Science
+    - title: BSc in Computer Science and Mathematics
       institution: Tel Aviv University, Tel Aviv, Israel
       year: 2018 - 2022
       description:
-        - "Participated in honors B.Sc. program in computer science, including a research project with Michal Feldman."
+        - "Participated in honors B.Sc. program in computer science, including a research project with Prof. Michal Feldman."
         - "Computer Science GPA: 96 (Summa Cum Laude). Mathematics GPA: 90 (Magna Cum Laude)."
 
 - title: Awards
@@ -37,14 +37,22 @@
   contents:
     - title: The Boaz Trakhtenbrot Centennial Scholarship
       year: 2025
+      description:
+        - "Awarded for my paper \"On the (In)approximability of Combinatorial Contracts.\""
+    - title: Adams Fellowship
+      year: 2026
+      description:
+        - "Awarded by the Israeli Academy of Sciences and Humanities; a highly competitive national Ph.D. fellowship granted annually to eight fellows across all scientific disciplines."
 
-- title: Publications (authors listed in alphabetical order)
+- title: Papers (authors listed in alphabetical order)
   type: list
   contents:
     - "Tomer Ezra, Michal Feldman, Maya Schlesinger. \"On the (In)approximability of Combinatorial Contracts.\" ITCS 2024."
     - "Michal Feldman, Yoav Gal-Tzur, Tomasz Ponitka, Maya Schlesinger. \"Budget-Feasible Contract Design.\" EC 2025."
     - "Tomer Ezra, Michal Feldman, Maya Schlesinger. \"Contract Design for Sequential Actions.\" SODA 2026."
-    - - "Michal Feldman, Yoav Gal-Tzur, Tomasz Ponitka, Maya Schlesinger. \"One Action Too Many: Inapproximability of Budgeted Combinatorial Contracts.\" `ITCS 2026."
+    - "Michal Feldman, Yoav Gal-Tzur, Tomasz Ponitka, Maya Schlesinger. \"One Action Too Many: Inapproximability of Budgeted Combinatorial Contracts.\" ITCS 2026."
+    - "Michal Feldman, Yoav Gal-Tzur, Tomasz Ponitka, Maya Schlesinger. \"Equal-Pay Contracts.\" In submission."
+    - "Elizabeth Baldwin, Paul Dütting, Michal Feldman, Maya Schlesinger. \"Combinatorial Contracts Through Demand Types.\" In submission."
 
 - title: Talks
   type: list
@@ -52,9 +60,17 @@
     - "\"Contract Design with Combinatorial Actions.\" Computation and Economics Seminar, the Hebrew University of Jerusalem, March 2024."
     - "\"Contract Design for Sequential Actions.\" Gender Inclusion Workshop, EC 2024."
     - "\"Budget-Feasible Contract Design.\" EC 2025."
+    - "\"One Action Too Many: Inapproximability of Budgeted Combinatorial Contracts.\" ITCS 2026."
+
+- title: Academic Service
+  type: list
+  contents:
+    - "Program Committee Member: ACM Conference on Economics and Computation (EC) 2026."
+    - "Reviewer: IEEE Symposium On Foundations Of Computer Science (FOCS) 2026."
+    - "Program Committee Member: Easy Peasy Workshop (EC) 2026."
 
 - title: Teaching Experience
   type: list
   contents:
-    - "Teaching Assistant – Discrete Mathematics 2: Tel Aviv University, Spring 2025"
-    - "Teaching Assistant – Discrete Mathematics 2: Tel Aviv University, Fall 2025."
+    - "Teaching Assistant – Discrete Mathematics 2: Tel Aviv University, Spring 2025, Fall 2025."
+    - "Teaching Assistant – Algorithmic Game Theory: Tel Aviv University, Spring 2026."
