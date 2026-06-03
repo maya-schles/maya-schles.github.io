@@ -35,7 +35,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{
+            },},{id: "news-a-simple-inline-announcement",
+          title: 'A simple inline announcement.',
+          description: "",
+          section: "News",},{id: "news-our-paper-combinatorial-contracts-through-demand-types-was-accepted-to-ec-2026",
+          title: 'Our paper ‘Combinatorial Contracts Through Demand Types’ was accepted to EC 2026!',
+          description: "",
+          section: "News",},{id: "news-our-paper-equal-pay-contracts-was-accepted-to-ec-2026",
+          title: 'Our paper ‘Equal-Pay Contracts’ was accepted to EC 2026!',
+          description: "",
+          section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
