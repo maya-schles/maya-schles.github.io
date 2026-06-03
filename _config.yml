@@ -192,7 +192,6 @@ exclude:
   - vendor
   - _pages/blog.md
   - _posts/
-  - _news/
   - _includes/news.liquid
   - projects/
   - _pages/projects.md
