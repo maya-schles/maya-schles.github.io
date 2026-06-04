@@ -13,7 +13,8 @@ nav_order: 2
 {% include bib_search.liquid %}
 
 {% capture working_papers %}{% bibliography --group_by none --query @*[working=true]* %}{% endcapture %}
-{% if working_papers != blank %}
+{% assign working_papers_stripped = working_papers | strip %}
+{% if working_papers_stripped != "" %}
 # Working Papers
 <div class="publications">
   {{ working_papers }}
