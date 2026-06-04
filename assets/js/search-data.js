@@ -35,8 +35,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-honored-receive-the-adams-fellowship",
-          title: 'Honored receive the Adams Fellowship',
+            },},{id: "news-honored-to-receive-the-adams-fellowship",
+          title: 'Honored to receive the Adams Fellowship',
           description: "",
           section: "News",},{id: "news-our-paper-combinatorial-contracts-through-demand-types-was-accepted-to-ec-2026",
           title: 'Our paper ‘Combinatorial Contracts Through Demand Types’ was accepted to EC 2026!',
