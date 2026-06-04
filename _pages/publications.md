@@ -12,10 +12,13 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
+{% capture working_papers %}{% bibliography --group_by none --query @*[working=true]* %}{% endcapture %}
+{% if working_papers != blank %}
 # Working Papers
 <div class="publications">
-  {% bibliography --group_by none --query @*[working=true]* %}
+  {{ working_papers }}
 </div>
+{% endif %}
 
 # Publications
 <div class="publications">

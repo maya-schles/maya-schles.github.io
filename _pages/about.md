@@ -38,4 +38,4 @@ My research lies in algorithmic game theory, with a focus on contract design in 
 
 <br>
 
-> We are organizing a tutorial on Algorithmic Contract Design for Teams at EC 2026 in Rome on July 7.
+> We are organizing a [tutorial on Algorithmic Contract Design for Teams](https://yoavgaltzur.github.io/ec26-contracts-tutorial/) at EC 2026 in Rome on July 7.
