@@ -12,12 +12,11 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
-{% capture working_papers %}{% bibliography --group_by none --query @*[working=true]* %}{% endcapture %}
-{% assign working_papers_stripped = working_papers | strip %}
-{% if working_papers_stripped != "" %}
+{% capture working_count %}{% bibliography_count --query @*[working=true]* %}{% endcapture %}
+{% if working_count != "0" %}
 # Working Papers
 <div class="publications">
-  {{ working_papers }}
+  {% bibliography --group_by none --query @*[working=true]* %}
 </div>
 {% endif %}
 
