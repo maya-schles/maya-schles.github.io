@@ -36,3 +36,6 @@ Before that, I was a master's student in computer science, also advised by Micha
 My research lies in algorithmic game theory, with a focus on contract design in combinatorial settings.
 
 
+<br>
+
+> We are organizing a tutorial on Algorithmic Contract Design for Teams at EC 2026 in Rome on July 7.

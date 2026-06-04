@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Honored receive the [Adams Fellowship](https://adams.academy.ac.il/) 
+Honored to receive the [Adams Fellowship](https://adams.academy.ac.il/) 
